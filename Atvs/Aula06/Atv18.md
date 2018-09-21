@@ -1,4 +1,4 @@
-#Implementação recursiva de potenciação
+# Implementação recursiva de potenciação
 
 ```
 #include <stdio.h>
