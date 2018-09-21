@@ -1,3 +1,5 @@
+#Implementação recursiva de potenciação
+
 ```
 #include <stdio.h>
 
